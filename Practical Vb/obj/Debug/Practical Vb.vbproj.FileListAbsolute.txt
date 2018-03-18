@@ -1,0 +1,20 @@
+C:\Users\LENOVO\Desktop\PRograMerZ\Practical Vb\Practical Vb\bin\Practical Vb.dll.config
+C:\Users\LENOVO\Desktop\PRograMerZ\Practical Vb\Practical Vb\bin\Practical Vb.dll
+C:\Users\LENOVO\Desktop\PRograMerZ\Practical Vb\Practical Vb\bin\Practical Vb.pdb
+C:\Users\LENOVO\Desktop\PRograMerZ\Practical Vb\Practical Vb\bin\Practical Vb.xml
+C:\Users\LENOVO\Desktop\PRograMerZ\Practical Vb\Practical Vb\obj\Debug\Practical Vb.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\PRograMerZ\Practical Vb\Practical Vb\obj\Debug\Practical_Vb.Resources.resources
+C:\Users\LENOVO\Desktop\PRograMerZ\Practical Vb\Practical Vb\obj\Debug\Practical Vb.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\PRograMerZ\Practical Vb\Practical Vb\obj\Debug\Practical Vb.dll
+C:\Users\LENOVO\Desktop\PRograMerZ\Practical Vb\Practical Vb\obj\Debug\Practical Vb.xml
+C:\Users\LENOVO\Desktop\PRograMerZ\Practical Vb\Practical Vb\obj\Debug\Practical Vb.pdb
+C:\Users\LENOVO\Desktop\PRograMerZ\Html\Practical Vb\Practical Vb\bin\Practical Vb.dll.config
+C:\Users\LENOVO\Desktop\PRograMerZ\Html\Practical Vb\Practical Vb\bin\Practical Vb.dll
+C:\Users\LENOVO\Desktop\PRograMerZ\Html\Practical Vb\Practical Vb\bin\Practical Vb.pdb
+C:\Users\LENOVO\Desktop\PRograMerZ\Html\Practical Vb\Practical Vb\bin\Practical Vb.xml
+C:\Users\LENOVO\Desktop\PRograMerZ\Html\Practical Vb\Practical Vb\obj\Debug\Practical Vb.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\PRograMerZ\Html\Practical Vb\Practical Vb\obj\Debug\Practical_Vb.Resources.resources
+C:\Users\LENOVO\Desktop\PRograMerZ\Html\Practical Vb\Practical Vb\obj\Debug\Practical Vb.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\PRograMerZ\Html\Practical Vb\Practical Vb\obj\Debug\Practical Vb.dll
+C:\Users\LENOVO\Desktop\PRograMerZ\Html\Practical Vb\Practical Vb\obj\Debug\Practical Vb.xml
+C:\Users\LENOVO\Desktop\PRograMerZ\Html\Practical Vb\Practical Vb\obj\Debug\Practical Vb.pdb
